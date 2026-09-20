@@ -1,0 +1,6 @@
+{
+  "name": "Sexsapiens | Salud, Placer y Goce Sexual",
+  "description": "Unidad de atención integral a la sexualidad desde Colombia para el mundo. Terapias psicosexuales y de pareja, cursos educativos, labor social y divulgación en artes eróticas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
